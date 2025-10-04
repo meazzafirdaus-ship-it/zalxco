@@ -1,2 +1,2 @@
 # zalxco
-ini repo saya pertama di GitHub
+ini repository saya pertama di GitHub
